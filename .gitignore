@@ -1,0 +1,9 @@
+.idea
+.vscode
+node_modules
+mtai.stafflocation/install/client/node_modules
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store

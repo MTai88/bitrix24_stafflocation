@@ -1,0 +1,10 @@
+.idea
+.vscode
+node_modules
+install/client/node_modules
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+.DS_Store

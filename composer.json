@@ -1,0 +1,19 @@
+{
+	"name": "mtai/stafflocation",
+	"description": "Employee seating map for Bitrix24: floors in an infoblock, pin coordinates in a highload block, public page on Vue 3",
+	"type": "bitrix-module",
+	"keywords": ["bitrix", "bitrix24", "employees", "floor", "map", "vue", "vite"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "MTai88 (Tair Minsafaev)"
+		}
+	],
+	"require": {
+		"php": ">=8.1"
+	},
+	"extra": {
+		"bitrix-module-id": "mtai.stafflocation",
+		"install-path": "local/modules/mtai.stafflocation"
+	}
+}

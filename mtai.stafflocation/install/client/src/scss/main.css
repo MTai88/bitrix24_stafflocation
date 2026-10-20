@@ -1,0 +1,12 @@
+/**
+ * Стили карты. Глобальный reset скаффолда не подключаем:
+ * бандл живёт внутри шаблона портала.
+ */
+@import './variables.css';
+@import './tailwind.css';
+
+@keyframes mtai-sl-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
